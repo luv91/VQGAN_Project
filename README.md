@@ -1,14 +1,5 @@
 ## Note:
-Code Tutorial + Implementation Tutorial
 
-<a href="https://www.youtube.com/watch?v=wcqLFDXaDO8">
-   <img alt="Qries" src="https://user-images.githubusercontent.com/61938694/154516539-90e2d4d0-4383-41f4-ad32-4c6d67bd2442.jpg"
-   width="300">
-</a>
-
-<a href="https://www.youtube.com/watch?v=_Br5WRwUz_U">
-   <img alt="Qries" src="https://user-images.githubusercontent.com/61938694/154628085-eede604f-442d-4bdb-a1ed-5ad3264e5aa0.jpg"
-   width="300">
 </a>
 
 # VQGAN
